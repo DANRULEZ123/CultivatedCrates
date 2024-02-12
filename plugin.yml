@@ -1,0 +1,6 @@
+version: 0.0.1
+api: 3.0.0
+author: danrulez123
+main: danrulez\Main
+desc: "A highly customizable, and easy crates plugin."
+name: CultivatedCrates
